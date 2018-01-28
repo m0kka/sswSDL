@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Format:
+font		=> relative link to TTF file for the font from respath level
+size		=> size of the text in pt
+cRed		=> RED value of color
+cGreen		=> GREEN value of color
+cBlue		=> BLUE value of color
+-----------------------------------------------------------
+id			=> ID of the entry for better identification within the game's engine
+entry		=> any text between the tags
+-----------------------------------------------------------
+tilesheet	=> reference to the tilesheet xml from respath level
+type		=> type of the ui background (0 for 9-slice, 1 for 3-slice)
+-->
+
+<entries font="alagard.ttf" size="30" cRed="255" cGreen="255" cBlue="255">
+	<entry id="entry01">This has worked! Indeed it worked, otherwise nothing would have worked. I am actually quite astonished to see how things turned out until now, really nice indeed!</entry>
+	<entry id="entry02">Lorem Ipsum, dolor sit amet</entry>
+	<entry id="entry03">My dog is black and grey and stuff</entry>
+	<entry id="entry04">I am tired as fucking hell! :c</entry>
+</entries>
+
+<background tilesheet="tilesheet_01.xml" type="0"/>

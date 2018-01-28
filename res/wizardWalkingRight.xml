@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+d  => delay (ms)
+-->
+
+<atlas imagePath="wizard01.png">
+        <frame n="WalkingRight0"  x="0" 	 y="64"	 w="32" h="32" d="150"/>
+        <frame n="WalkingRight1"  x="32" 	 y="64"	 w="32" h="32" d="150"/>
+        <frame n="WalkingRight2"  x="64" 	 y="64"	 w="32" h="32" d="150"/>
+        <frame n="WalkingRight3"  x="96" 	 y="64"	 w="32" h="32" d="150"/>
+        <frame n="WalkingRight4"  x="128" 	 y="64"	 w="32" h="32" d="150"/>
+        <frame n="WalkingRight5"  x="160" 	 y="64"	 w="32" h="32" d="150"/>
+        <frame n="WalkingRight6"  x="192" 	 y="64"	 w="32" h="32" d="150"/>
+        <frame n="WalkingRight7"  x="224" 	 y="64"	 w="32" h="32" d="150"/>
+</atlas>

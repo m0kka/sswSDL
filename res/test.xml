@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+d  => delay (ms)
+-->
+
+<atlas imagePath="BlackGuy_spritesheet.png">
+        <frame n="bg01"  x="0" 	 y="0"	 w="256" h="256" d="200"/>
+        <frame n="bg02"  x="256" y="0"	 w="256" h="256" d="200"/>
+        <frame n="bg03"  x="512" y="0"	 w="256" h="256" d="200"/>
+        <frame n="bg04"  x="768" y="0"	 w="256" h="256" d="200"/>
+        <frame n="bg05"  x="0"	 y="256" w="256" h="256" d="200"/>
+        <frame n="bg06"  x="256" y="256" w="256" h="256" d="200"/>
+        <frame n="bg07"  x="512" y="256" w="256" h="256" d="200"/>
+        <frame n="bg08"  x="768" y="256" w="256" h="256" d="200"/>
+        <frame n="bg09"  x="0"	 y="512" w="256" h="256" d="50"/>
+        <frame n="bg10"  x="256" y="512" w="256" h="256" d="200"/>
+        <frame n="bg11"  x="512" y="512" w="256" h="256" d="200"/>
+        <frame n="bg12"  x="768" y="512" w="256" h="256" d="200"/>
+        <frame n="bg13"  x="0"	 y="768" w="256" h="256" d="200"/>
+        <frame n="bg14"  x="256" y="768" w="256" h="256" d="200"/>
+        <frame n="bg15"  x="512" y="768" w="256" h="256" d="200"/>
+        <frame n="bg16"  x="768" y="768" w="256" h="256" d="200"/>
+</atlas>
