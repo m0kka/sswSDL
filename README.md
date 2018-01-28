@@ -9,6 +9,7 @@ Used:
 * SDL2_ttf (https://libsdl.org/projects/SDL_ttf/)
 * tinyxml2 (http://grinninglizard.com/tinyxml2/)
 * gtml (http://ggt.sourceforge.net/)
+* Alagard Font, testing (https://dafont.com/alagard.font)
 
 SDL2, SDL2_image, SDL2_ttf and tinyxml2 are released under the zlib license.
 
